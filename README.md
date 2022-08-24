@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/masih_hermon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masih_hermon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hermonmasih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hermonmasih" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hermon-masih-4500591a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hermonmasih" height="30" width="40" /></a>
 <a href="https://medium.com/@hermonmasih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hermonmasih" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hermon_masih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hermon_masih" height="30" width="40" /></a>
 </p>
