@@ -1,4 +1,4 @@
-# <h3 align="center">Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Hermon Masih](https://www.linkedin.com/in/hermon-masih-4500591a0)🦥!!</h3>
+# <h3 align="center">Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Hermon Masih (https://www.linkedin.com/in/hermon-masih-4500591a0)🦥!!</h3>
 <h3 align="center">A Passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hermonmasih&label=Profile%20views&color=0e75b6&style=flat" alt="hermonmasih" /> </p>
